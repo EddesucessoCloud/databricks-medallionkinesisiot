@@ -453,10 +453,9 @@ This project is provided as-is for educational and production use.
 
 ## 👤 Author
 
-**Your Name** | Cloud Data Engineer  
-📧 Email: your-email@example.com  
-💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)  
-🔗 GitHub: [your-repo](https://github.com/your-repo)
+**Daniel Cruz Rodrigues** | Cloud Data Engineer  
+📧 Email: danielcruz.alu.lmb@gmail.com 
+💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/danielcruzbianalytics/)  
 
 ---
 
